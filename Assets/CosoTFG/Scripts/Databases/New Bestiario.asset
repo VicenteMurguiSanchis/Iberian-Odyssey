@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9fb64dcdd9720549967ce5b054260c0, type: 3}
+  m_Name: New Bestiario
+  m_EditorClassIdentifier: 
+  bestias:
+  - id: 0
+    name: Anjana
+    imagen: {fileID: 21300000, guid: f9db3c36f86cd4749a5cfc39f4a22ac2, type: 3}
+    boton_imagen: {fileID: 21300000, guid: 508384ae7eed2f04ab9f96c72908810e, type: 3}
+    descripcion: "La anjana (de jana, antiguo nombre con que se designaba a las hechiceras
+      durante la Edad Media) son las hadas buenas de la mitolog\xEDa c\xE1ntabra.
+      Tambi\xE9n reciben el nombre de insanas, xanes, xinsanes e ijianas. Estos seres
+      fe\xE9ricos son la contrapartida a los crueles y despiadados oj\xE1ncanos y
+      oj\xE1ncanas y en la mayor parte de las versiones son las hadas buenas de Cantabria,
+      generosas y protectoras de las gentes. "
+  - id: 1
+    name: Trenti
+    imagen: {fileID: 21300000, guid: bb5a35e2fe89ab241a3c9b3b79a990df, type: 3}
+    boton_imagen: {fileID: 21300000, guid: fa104ea56015265439ec9a8dc5f12985, type: 3}
+    descripcion: "En la mitolog\xEDa c\xE1ntabra los Trentis son duendes traviesos
+      de los bosques. Van vestidos con hojas, musgo y ra\xEDces, por ello pasa desapercibido
+      entre la vegetaci\xF3n pues se confunde perfectamente con el entorno. Durante
+      el invierno este ser de vida silvestre duerme al abrigo de las torcas y en
+      verano bajo la frescura de los \xE1rboles. Se alimenta de panojas y endrinas
+      y bebe leche pero jam\xE1s bebe agua pues es ponzo\xF1a para \xE9l."
+  - id: 2
+    name: Musgosu
+    imagen: {fileID: 21300000, guid: 1508a694b21d2bc4a8c177b69d6c2674, type: 3}
+    boton_imagen: {fileID: 21300000, guid: 2bb7629297d83574db64f064211851a4, type: 3}
+    descripcion: "Se dice que el Musgosu es el se\xF1or del bosque y de todo lo que
+      habita en \xE9l. Es enemigo encarnizado de los le\xF1adores y cazadores. En
+      su d\xEDa fue un hombre que cansado de la vida en sociedad , un d\xEDa decidi\xF3
+      echarse a la monta\xF1a. Su voz nunca ha sido escuchada, pero en los montes
+      de Cantabria todo el mundo le respeta, sobre todo los pastores."
+  - id: 3
+    name: "Cu\xE9lebre"
+    imagen: {fileID: 21300000, guid: c3f12dd2fb3e2a94c8371dfdb770a57d, type: 3}
+    boton_imagen: {fileID: 21300000, guid: 0f993820d56d74149a7b7f13d841b7ba, type: 3}
+    descripcion: "Una enorme serpiente alada cuyas escamas resultan impenetrables
+      para las armas convencionales. Su \xFAnico punto devil se encuentra en la garganta,
+      donde sus escamas no le protegen. Se dice que los Cuelebre son culebras que
+      con los a\xF1os se van haciendo gigantes hasta que desarrollan alas con las
+      que vuelan hacia el oceano en donde esconden sus tesoros. Suele habitar en
+      cuevas y fuentes en las que custodia tesoros de gran valor. En muchos mitos
+      suele ser su apetito voraz frente a la carne lo que le causa su perdici\xF3n."
+  - id: 4
+    name: Tarasca
+    imagen: {fileID: 21300000, guid: f519cea51f9a36f4cb4034d46a17e02a, type: 3}
+    boton_imagen: {fileID: 21300000, guid: 7c5288f8961e05b4da4d7c9303e4da4b, type: 3}
+    descripcion: "La Tarasca era una criatura que habitaba en Tarasc\xF3n, Provenza,
+      y devastaba el territorio por doquier. Los habitantes trataron de detenerla
+      sin \xE9xito empleando todo su arsenal. No fue hasta la llegada de Santa Manta
+      que la bestia se dobleg\xF3 ante el poder de su fe. Se dice que Santa Marta
+      llev\xF3 a la critatura a Tarasc\xF3n donde la gente presa del p\xE1nico dieron
+      muerte al domado monstruo sin que este pudiese defenderse. Santa Marta predic\xF3
+      un sermon a la poblaci\xF3n quienes arrepentidos por dar muerte a la Tarasca
+      se convirtieron al cristianismo."

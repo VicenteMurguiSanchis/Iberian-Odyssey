@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 556b343d9084be74c819c8c48f01a96a, type: 3}
+  m_Name: New Listado Acciones
+  m_EditorClassIdentifier: 
+  acciones:
+  - id: 0
+    name: Interactuar
+    boton_imagen: {fileID: 21300000, guid: d7415dc4bd2f21c4d802fc81a350575d, type: 3}
+  - id: 1
+    name: Analizar
+    boton_imagen: {fileID: 21300000, guid: 9d0f8771558b33c45be148ffde8d1094, type: 3}
+  - id: 2
+    name: Poner Cebo
+    boton_imagen: {fileID: 21300000, guid: 33b7373ddeb75524e95895c5b78f3622, type: 3}
+  - id: 3
+    name: Brujula
+    boton_imagen: {fileID: 21300000, guid: f26e008f0ab7cce47bb21bf454bd832d, type: 3}
+  - id: 4
+    name: Cruz
+    boton_imagen: {fileID: 21300000, guid: 8b1d94bd04abe1f4b9c604b9cf5d4393, type: 3}
