@@ -46,7 +46,7 @@ adventure.
 * **Musgosu**: he is an old man who lives in the woods and who shares his wisdom
 with those who respect nature. It will be in charge of unlocking the
 user the action "Leave Bait".
-* **Cuélebre**: it is a gigantic winged snake that in the application
+* **Cuelebre**: it is a gigantic winged snake that in the application
 protects a chest that the user must collect. For this, the user must
 use the "Leave Bait" action to lure the "Cuélebre" away from the chest and thus
 be able to unlock the action "Cruz de Santa Marta".
