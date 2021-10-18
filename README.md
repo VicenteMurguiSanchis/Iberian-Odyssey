@@ -79,7 +79,7 @@ indicates the direction in which you should go.
 
 * **Set Bait**: The user unlocks this ability at the end of the second trial.
 This action allows you to place a digital object somewhere in the space that
-It surrounds him to attract the "Cuélebre" to the position in which the object has been left.
+It surrounds him to attract the "Cuelebre" to the position in which the object has been left.
 ![alt text](https://github.com/VicenteMurguiSanchis/Iberian-Odyssey/blob/main/Imagenes_GitHub/Gif7.gif)
 
 * **Cruz de Santa Marta**: is the ability that is unlocked at the end of the third
