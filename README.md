@@ -60,7 +60,7 @@ that presents the application in different ways:
 * **Help**: allows the user to invoke a being in a place in the space around him
 mythological digital called “Anjana” that gives you a clue on the next step
 to do next.
-![alt text](https://github.com/VicenteMurguiSanchis/Iberian-Odyssey/blob/main/Imagenes_GitHub/Gif4.gif)
+![alt text](https://github.com/VicenteMurguiSanchis/Iberian-Odyssey/blob/main/Imagenes_GitHub/Gif2(1).gif)
 
 * **Interact**: this action allows the user to interact with the different
 digital objects that you will find during the experience to move on
