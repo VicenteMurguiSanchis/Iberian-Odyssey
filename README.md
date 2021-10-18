@@ -91,3 +91,5 @@ Santa Marta ”to eliminate“ Tarasca ”from the application's digital space.
 The application ends when the "Tarasca" is eliminated from the digital world, after this it is
 tells the player to summon the "Anjana" once more with the action of
 "Help" so that it gives you one last message with which to conclude the application.
+
+Only the scripts with the application code and scenes can be found in the "Assets / CosoTFG" folder. Musical and visual elements have not been uploaded due to copyright.
