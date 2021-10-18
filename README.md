@@ -40,20 +40,29 @@ digital that represent different beings of Iberian mythology. The beasts that th
 * **Anjana**: is a girl with golden hair who will guide the user
 every time it invokes it with the "Help" action, which will cause it to give it a
 Helpful advice on what the user should do next.
+![alt text](https://github.com/VicenteMurguiSanchis/Iberian-Odyssey/blob/main/Imagenes_GitHub/Bestia1.PNG)
+
 * **Trenti**: is a small forest elf. During the application the user
 you will find several lost that you will have to gather to continue your
 adventure.
+![alt text](https://github.com/VicenteMurguiSanchis/Iberian-Odyssey/blob/main/Imagenes_GitHub/Bestia2.PNG)
+
 * **Musgosu**: he is an old man who lives in the woods and who shares his wisdom
 with those who respect nature. It will be in charge of unlocking the
 user the action "Leave Bait".
+![alt text](https://github.com/VicenteMurguiSanchis/Iberian-Odyssey/blob/main/Imagenes_GitHub/Bestia3.PNG)
+
 * **Cuelebre**: it is a gigantic winged snake that in the application
 protects a chest that the user must collect. For this, the user must
 use the "Leave Bait" action to lure the "Cuélebre" away from the chest and thus
 be able to unlock the action "Cruz de Santa Marta".
+![alt text](https://github.com/VicenteMurguiSanchis/Iberian-Odyssey/blob/main/Imagenes_GitHub/Bestia4.PNG)
+
 * **Tarasca**: he is the final villain of the adventure. It is a gigantic six-legged lion.
 legs with the body of a turtle and a tail of a dragon. The user must use in
 this beast the action "Cruz de Santa Marta" to be able to defeat it and thus finish
 the adventure that this RA experience offers.
+![alt text](https://github.com/VicenteMurguiSanchis/Iberian-Odyssey/blob/main/Imagenes_GitHub/Bestia5.PNG)
 
 To solve each of the tests the user will be able to interact with the digital world
 that presents the application in different ways:
