@@ -60,21 +60,33 @@ that presents the application in different ways:
 * **Help**: allows the user to invoke a being in a place in the space around him
 mythological digital called “Anjana” that gives you a clue on the next step
 to do next.
+![alt text](https://github.com/VicenteMurguiSanchis/Iberian-Odyssey/blob/main/Imagenes_GitHub/WhatsApp%20Image%202021-09-14%20at%2017.57.29(1).jpeg)
+
 * **Interact**: this action allows the user to interact with the different
 digital objects that you will find during the experience to move on
 with each of the tests.
+![alt text](https://github.com/VicenteMurguiSanchis/Iberian-Odyssey/blob/main/Imagenes_GitHub/WhatsApp%20Image%202021-09-14%20at%2017.57.29(1).jpeg)
+
 * **Analyze**: with this action the user will be able to collect information from the different
 mythological beings that appear during the tests. Such information may
 be seen in the bestiary menu where all the information will be saved
 obtained.
+![alt text](https://github.com/VicenteMurguiSanchis/Iberian-Odyssey/blob/main/Imagenes_GitHub/WhatsApp%20Image%202021-09-14%20at%2017.57.29(1).jpeg)
+
 * **Compass**: when activating this action, the user will be able to see an arrow that
 indicates the direction in which you should go.
+![alt text](https://github.com/VicenteMurguiSanchis/Iberian-Odyssey/blob/main/Imagenes_GitHub/WhatsApp%20Image%202021-09-14%20at%2017.57.29(1).jpeg)
+
 * **Set Bait**: The user unlocks this ability at the end of the second trial.
 This action allows you to place a digital object somewhere in the space that
 It surrounds him to attract the "Cuélebre" to the position in which the object has been left.
+![alt text](https://github.com/VicenteMurguiSanchis/Iberian-Odyssey/blob/main/Imagenes_GitHub/WhatsApp%20Image%202021-09-14%20at%2017.57.29(1).jpeg)
+
 * **Cruz de Santa Marta**: is the ability that is unlocked at the end of the third
 application test. Allows the user to use the object called "Cross of
 Santa Marta ”to eliminate“ Tarasca ”from the application's digital space.
+![alt text](https://github.com/VicenteMurguiSanchis/Iberian-Odyssey/blob/main/Imagenes_GitHub/WhatsApp%20Image%202021-09-14%20at%2017.57.29(1).jpeg)
+
 
 The application ends when the "Tarasca" is eliminated from the digital world, after this it is
 tells the player to summon the "Anjana" once more with the action of
