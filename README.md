@@ -75,3 +75,7 @@ It surrounds him to attract the "Cuélebre" to the position in which the object 
 * **Cruz de Santa Marta**: is the ability that is unlocked at the end of the third
 application test. Allows the user to use the object called "Cross of
 Santa Marta ”to eliminate“ Tarasca ”from the application's digital space.
+
+The application ends when the "Tarasca" is eliminated from the digital world, after this it is
+tells the player to summon the "Anjana" once more with the action of
+"Help" so that it gives you one last message with which to conclude the application.
