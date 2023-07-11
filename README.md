@@ -43,8 +43,7 @@ Helpful advice on what the user should do next.
 
 ![alt text](https://github.com/VicenteMurguiSanchis/Iberian-Odyssey/blob/main/Imagenes_GitHub/Bestia1.PNG)
 
-* **Trenti**: is a small forest elf. During the application the user
-you will find several lost that you will have to gather to continue your
+* **Trenti**: is a small forest elf. During the application the user will find several lost that you will have to gather to continue your
 adventure.
 
 ![alt text](https://github.com/VicenteMurguiSanchis/Iberian-Odyssey/blob/main/Imagenes_GitHub/Bestia2.PNG)
